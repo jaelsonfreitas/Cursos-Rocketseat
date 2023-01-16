@@ -7,3 +7,8 @@
     * var
     * let
     * const
+
+o JS é uma linguagem tipada e dinamica 
+
+* variáveis não precisam ter um tipo previamente definido
+* Podemos mudar o conteúdo da variável. 
